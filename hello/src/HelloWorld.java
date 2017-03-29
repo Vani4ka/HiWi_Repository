@@ -1,0 +1,7 @@
+//created by vanya gercheva on 29.03.17
+
+public class HelloWorld {
+	public static void main(String[] args) {
+		System.out.println("Hello Git!");
+	}
+}
